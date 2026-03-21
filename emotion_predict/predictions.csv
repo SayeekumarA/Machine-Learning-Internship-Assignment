@@ -1,0 +1,121 @@
+id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do,supportive_message
+10001,focused,1.0,0.576,0,deep_work,now,You're already in a focused state — perfect! Go for **deep work** right now. Ride that wave.
+10002,restless,4.42,0.41,1,sound_therapy,now,You seem a bit restless/wired. Let's try **sound therapy** right now to help settle things down.
+10003,neutral,3.5,0.335,1,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10004,focused,1.0,0.663,0,light_planning,within_15_min,You're already in a focused state — perfect! Go for **light planning** within 15 min. Ride that wave.
+10005,calm,2.0,0.521,0,rest,later_today,You're in a calm space right now. **Rest** would feel really good later today.
+10006,mixed,5.0,0.532,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10007,restless,5.0,0.767,0,sound_therapy,now,You seem a bit restless/wired. Let's try **sound therapy** right now to help settle things down.
+10008,overwhelmed,1.0,0.498,1,grounding,now,Things feel heavy — that's okay. **Grounding** can give you some relief right now.
+10009,restless,1.0,0.555,0,movement,within_15_min,You seem a bit restless/wired. Let's try **movement** within 15 min to help settle things down.
+10010,overwhelmed,5.0,0.519,0,box_breathing,now,Things feel heavy — that's okay. **Box breathing** can give you some relief right now.
+10011,overwhelmed,1.03,0.591,0,journaling,within_15_min,Things feel heavy — that's okay. **Journaling** can give you some relief within 15 min.
+10012,neutral,2.0,0.232,1,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10013,neutral,2.6,0.192,1,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10014,focused,5.0,0.389,1,light_planning,within_15_min,You're already in a focused state — perfect! Go for **light planning** within 15 min. Ride that wave.
+10015,calm,1.19,0.502,0,deep_work,now,You're in a calm space right now. **Deep work** would feel really good right now.
+10016,neutral,1.84,0.534,0,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10017,mixed,5.0,0.611,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10018,mixed,5.0,0.64,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10019,focused,1.0,0.48,1,deep_work,now,You're already in a focused state — perfect! Go for **deep work** right now. Ride that wave.
+10020,calm,3.5,0.222,1,rest,later_today,You're in a calm space right now. **Rest** would feel really good later today.
+10021,overwhelmed,2.27,0.527,0,box_breathing,now,Things feel heavy — that's okay. **Box breathing** can give you some relief right now.
+10022,calm,4.42,0.671,0,deep_work,now,You're in a calm space right now. **Deep work** would feel really good right now.
+10023,neutral,1.0,0.545,0,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10024,neutral,4.32,0.656,0,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10025,neutral,2.0,0.196,1,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10026,overwhelmed,5.0,0.736,0,grounding,now,Things feel heavy — that's okay. **Grounding** can give you some relief right now.
+10027,mixed,1.0,0.6,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10028,mixed,3.59,0.569,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10029,overwhelmed,5.0,0.667,0,grounding,now,Things feel heavy — that's okay. **Grounding** can give you some relief right now.
+10030,calm,3.67,0.587,0,rest,later_today,You're in a calm space right now. **Rest** would feel really good later today.
+10031,focused,3.98,0.555,0,light_planning,within_15_min,You're already in a focused state — perfect! Go for **light planning** within 15 min. Ride that wave.
+10032,restless,1.55,0.206,1,movement,within_15_min,You seem a bit restless/wired. Let's try **movement** within 15 min to help settle things down.
+10033,overwhelmed,1.0,0.769,0,grounding,now,Things feel heavy — that's okay. **Grounding** can give you some relief right now.
+10034,neutral,1.0,0.555,0,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10035,focused,5.0,0.547,0,deep_work,now,You're already in a focused state — perfect! Go for **deep work** right now. Ride that wave.
+10036,restless,5.0,0.425,1,movement,within_15_min,You seem a bit restless/wired. Let's try **movement** within 15 min to help settle things down.
+10037,calm,1.0,0.142,1,light_planning,later_today,You're in a calm space right now. **Light planning** would feel really good later today.
+10038,focused,1.0,0.508,0,deep_work,now,You're already in a focused state — perfect! Go for **deep work** right now. Ride that wave.
+10039,mixed,1.0,0.778,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10040,mixed,5.0,0.66,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10041,overwhelmed,5.0,0.596,0,grounding,now,Things feel heavy — that's okay. **Grounding** can give you some relief right now.
+10042,calm,1.0,0.273,1,rest,later_today,You're in a calm space right now. **Rest** would feel really good later today.
+10043,calm,3.12,0.282,1,deep_work,now,You're in a calm space right now. **Deep work** would feel really good right now.
+10044,calm,2.33,0.266,1,deep_work,now,You're in a calm space right now. **Deep work** would feel really good right now.
+10045,restless,5.0,0.518,0,sound_therapy,now,You seem a bit restless/wired. Let's try **sound therapy** right now to help settle things down.
+10046,focused,1.0,0.75,0,deep_work,now,You're already in a focused state — perfect! Go for **deep work** right now. Ride that wave.
+10047,focused,1.0,0.509,0,deep_work,now,You're already in a focused state — perfect! Go for **deep work** right now. Ride that wave.
+10048,calm,1.0,0.474,1,deep_work,now,You're in a calm space right now. **Deep work** would feel really good right now.
+10049,restless,4.17,0.578,0,movement,within_15_min,You seem a bit restless/wired. Let's try **movement** within 15 min to help settle things down.
+10050,restless,1.0,0.727,0,movement,within_15_min,You seem a bit restless/wired. Let's try **movement** within 15 min to help settle things down.
+10051,calm,5.0,0.551,0,deep_work,now,You're in a calm space right now. **Deep work** would feel really good right now.
+10052,restless,1.0,0.59,0,movement,within_15_min,You seem a bit restless/wired. Let's try **movement** within 15 min to help settle things down.
+10053,calm,3.71,0.617,0,rest,later_today,You're in a calm space right now. **Rest** would feel really good later today.
+10054,overwhelmed,5.0,0.575,0,grounding,now,Things feel heavy — that's okay. **Grounding** can give you some relief right now.
+10055,mixed,5.0,0.725,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10056,focused,3.8,0.796,0,deep_work,now,You're already in a focused state — perfect! Go for **deep work** right now. Ride that wave.
+10057,overwhelmed,4.1,0.607,0,grounding,now,Things feel heavy — that's okay. **Grounding** can give you some relief right now.
+10058,overwhelmed,1.41,0.745,0,journaling,within_15_min,Things feel heavy — that's okay. **Journaling** can give you some relief within 15 min.
+10059,mixed,4.76,0.508,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10060,neutral,3.15,0.207,1,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10061,neutral,1.94,0.488,1,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10062,calm,5.0,0.512,0,deep_work,now,You're in a calm space right now. **Deep work** would feel really good right now.
+10063,restless,5.0,0.411,1,sound_therapy,now,You seem a bit restless/wired. Let's try **sound therapy** right now to help settle things down.
+10064,neutral,3.11,0.636,0,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10065,neutral,3.8,0.782,0,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10066,restless,1.0,0.586,0,sound_therapy,now,You seem a bit restless/wired. Let's try **sound therapy** right now to help settle things down.
+10067,restless,2.32,0.634,0,sound_therapy,now,You seem a bit restless/wired. Let's try **sound therapy** right now to help settle things down.
+10068,overwhelmed,3.73,0.624,0,grounding,now,Things feel heavy — that's okay. **Grounding** can give you some relief right now.
+10069,neutral,1.0,0.607,0,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10070,restless,1.0,0.495,1,movement,within_15_min,You seem a bit restless/wired. Let's try **movement** within 15 min to help settle things down.
+10071,mixed,3.89,0.664,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10072,neutral,1.0,0.538,0,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10073,focused,5.0,0.406,1,light_planning,within_15_min,You're already in a focused state — perfect! Go for **light planning** within 15 min. Ride that wave.
+10074,mixed,1.0,0.658,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10075,restless,1.89,0.428,1,movement,within_15_min,You seem a bit restless/wired. Let's try **movement** within 15 min to help settle things down.
+10076,mixed,1.0,0.597,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10077,neutral,5.0,0.702,0,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10078,restless,5.0,0.626,0,movement,within_15_min,You seem a bit restless/wired. Let's try **movement** within 15 min to help settle things down.
+10079,restless,1.0,0.413,1,sound_therapy,now,You seem a bit restless/wired. Let's try **sound therapy** right now to help settle things down.
+10080,calm,3.11,0.312,1,deep_work,now,You're in a calm space right now. **Deep work** would feel really good right now.
+10081,restless,3.37,0.826,0,sound_therapy,now,You seem a bit restless/wired. Let's try **sound therapy** right now to help settle things down.
+10082,neutral,2.84,0.189,1,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10083,neutral,1.0,0.515,0,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10084,overwhelmed,5.0,0.688,0,grounding,now,Things feel heavy — that's okay. **Grounding** can give you some relief right now.
+10085,calm,2.59,0.266,1,light_planning,later_today,You're in a calm space right now. **Light planning** would feel really good later today.
+10086,neutral,5.0,0.59,0,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10087,mixed,5.0,0.566,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10088,neutral,4.09,0.695,0,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10089,neutral,4.85,0.585,0,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10090,mixed,3.16,0.573,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10091,neutral,3.26,0.72,0,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10092,overwhelmed,1.49,0.649,0,journaling,within_15_min,Things feel heavy — that's okay. **Journaling** can give you some relief within 15 min.
+10093,mixed,3.47,0.645,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10094,neutral,3.5,0.265,1,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10095,overwhelmed,1.0,0.489,1,journaling,within_15_min,Things feel heavy — that's okay. **Journaling** can give you some relief within 15 min.
+10096,calm,3.5,0.214,1,light_planning,later_today,You're in a calm space right now. **Light planning** would feel really good later today.
+10097,mixed,3.37,0.599,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10098,overwhelmed,1.0,0.411,1,box_breathing,now,Things feel heavy — that's okay. **Box breathing** can give you some relief right now.
+10099,mixed,1.0,0.625,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10100,mixed,5.0,0.631,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10101,calm,5.0,0.248,1,rest,later_today,You're in a calm space right now. **Rest** would feel really good later today.
+10102,overwhelmed,1.0,0.765,0,journaling,within_15_min,Things feel heavy — that's okay. **Journaling** can give you some relief within 15 min.
+10103,calm,4.57,0.575,0,rest,later_today,You're in a calm space right now. **Rest** would feel really good later today.
+10104,mixed,2.22,0.611,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10105,neutral,2.0,0.152,1,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10106,neutral,5.0,0.736,0,light_planning,later_today,You're in a nice balanced spot. **Light planning** could be a smooth next step later today.
+10107,restless,2.99,0.188,1,sound_therapy,now,You seem a bit restless/wired. Let's try **sound therapy** right now to help settle things down.
+10108,mixed,4.46,0.693,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10109,focused,5.0,0.126,1,deep_work,now,You're already in a focused state — perfect! Go for **deep work** right now. Ride that wave.
+10110,neutral,2.0,0.188,1,rest,later_today,You're in a nice balanced spot. **Rest** could be a smooth next step later today.
+10111,mixed,4.81,0.68,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10112,mixed,2.39,0.718,0,pause,now,Signals feel a bit mixed right now. **Pause** should help bring clarity right now.
+10113,calm,5.0,0.627,0,rest,later_today,You're in a calm space right now. **Rest** would feel really good later today.
+10114,calm,1.0,0.273,1,light_planning,later_today,You're in a calm space right now. **Light planning** would feel really good later today.
+10115,calm,5.0,0.614,0,deep_work,now,You're in a calm space right now. **Deep work** would feel really good right now.
+10116,overwhelmed,1.0,0.72,0,journaling,within_15_min,Things feel heavy — that's okay. **Journaling** can give you some relief within 15 min.
+10117,calm,1.0,0.327,1,rest,later_today,You're in a calm space right now. **Rest** would feel really good later today.
+10118,focused,1.0,0.55,0,deep_work,now,You're already in a focused state — perfect! Go for **deep work** right now. Ride that wave.
+10119,mixed,1.0,0.623,0,journaling,within_15_min,Signals feel a bit mixed right now. **Journaling** should help bring clarity within 15 min.
+10120,restless,5.0,0.593,0,movement,within_15_min,You seem a bit restless/wired. Let's try **movement** within 15 min to help settle things down.
