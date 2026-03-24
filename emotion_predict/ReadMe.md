@@ -1,6 +1,6 @@
 # 🧠 Emotion AI System
 
-This project builds a machine learning system that understands user emotions from journal text and suggests what the user should do and when.
+Developed a machine learning system that understands user emotions from journal text and suggests what the user should do and when.
 
 ---
 
@@ -14,7 +14,7 @@ This project builds a machine learning system that understands user emotions fro
    - testing_data.xlsx
 
 3. Open the notebook:
-   emotion_ai_final.ipynb
+   ML_Project.ipynb
 
 4. Run all cells step by step
 
