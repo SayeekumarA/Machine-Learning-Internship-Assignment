@@ -1,6 +1,6 @@
 # ❗ Error Analysis
 
-We analyzed cases where the model predictions were incorrect.
+I analyzed cases where the model predictions were incorrect.
 
 ---
 
