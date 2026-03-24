@@ -14,7 +14,7 @@ This project builds a machine learning system that understands user emotions fro
    - testing_data.xlsx
 
 3. Open the notebook:
-   emotion_ai_final.ipynb
+   ML_Project.ipynb
 
 4. Run all cells step by step
 
@@ -96,4 +96,4 @@ When: now
 
 ## 📌 Note
 
-Test dataset does not have labels, so evaluation metrics like accuracy and MSE are calculated only on training data.
+Test dataset does not have labels, so evaluation metrics like accuracy and MSE are calculated only on training data. 
