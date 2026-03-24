@@ -1,6 +1,6 @@
 # 🧠 Understanding Human-Emotional State
 
-This project builds a machine learning system that understands user emotions from journal text and suggests what the user should do and when.
+Developed a machine learning system that understands user emotions from journal text and suggests what the user should do and when.
 
 ---
 
